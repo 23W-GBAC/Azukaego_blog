@@ -1,2 +1,2 @@
 # Azukaego-Blog
-DATA QUALITY IN HEALTHCARE
+work in progress for a readme file
