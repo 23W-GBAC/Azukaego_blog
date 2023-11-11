@@ -1,2 +1,2 @@
-# Azukaego-Blog
-work in progress for a readme file
+# Gloria Azum_Blog
+# Data Quality In Women's Healthcare
