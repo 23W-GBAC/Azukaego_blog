@@ -2,9 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
-page.header {
+.page-header {
   background-image: url('image/blog_banner.png');
-  background-size: cover;
+  background-size: 100% 100%;
   background-position: centre;
   height: 100vh;;
 }
