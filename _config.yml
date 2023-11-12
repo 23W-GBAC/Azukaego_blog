@@ -1,4 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
+background-image: url("https://github.com/23W-GBAC/Azukaego_blog/blob/bb0552758e7f5ebf5146403fd5fd16c4b64ab9d9/assets/Blog%20Banner1.png");
+background-size: 100% auto;
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-header_image: https://github.com/23W-GBAC/Azukaego_blog/blob/bb0552758e7f5ebf5146403fd5fd16c4b64ab9d9/assets/Blog%20Banner1.png
