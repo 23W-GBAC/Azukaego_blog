@@ -110,10 +110,9 @@ a {
   text-align: center;
   background-color: $header-bg-color;
   background-image: url('https://github.com/23W-GBAC/Azukaego_blog/blob/main/image/blog_banner.png?raw=true');
-  background-size: 100% 100%;
+  background-size: auto;
   background-position: center;
   background-repeat: no-repeat;
-  height: 100vh;
 
   @include large {
     padding: 5rem 6rem;
