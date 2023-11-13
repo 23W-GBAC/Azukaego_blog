@@ -111,7 +111,8 @@ a {
   background-color: $header-bg-color;
   background-image: url('https://github.com/23W-GBAC/Azukaego_blog/blob/main/image/blog_banner.png?raw=true');
   background-size: contain;
-  background-position: center; 
+  background-position: center;
+  background-repeat: no-repeat;
 
   @include large {
     padding: 5rem 6rem;
