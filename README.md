@@ -2,7 +2,7 @@
 
 
 
-![meme](image/meme_stern_face.jpg) &nbsp;&nbsp;<em><strong>"It's just your anxiety!"</strong></em>said the specialist to Mary.
+![meme](image/meme_stern_face.jpg) &nbsp;&nbsp;<em><strong>"It's just your anxiety!"</strong></em> said the specialist to Mary.
 
 
 
