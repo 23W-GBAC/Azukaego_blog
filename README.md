@@ -26,4 +26,4 @@ Mary had been on regular visits to the physician for the past 4years for her per
 Uhm, yeah quick to not forget the misogyny that still goes on in the healthcare industry when it comes to women and being constantly gaslighted about their symptoms being exaggerated. I mean the word 'hysteria' comes from the Greek root hystera, meaning ‘uterus’, not surprising. Mary replied
 
 
-<em><strong>"Next to hysteria on my chart, indicate that I, the patient requested a second opinion."<em><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![meme_facetw](image/meme_sigh_face.png)
+<em><strong>"Next to hysteria on my chart, indicate that I, the patient requested a second opinion."<em><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![meme_facetw](image/meme_sigh_face.png)
