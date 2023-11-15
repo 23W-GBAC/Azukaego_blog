@@ -12,16 +12,17 @@
 
 
 
-Mary had been on regular visits to the physician for the past 4years for her persistent chest burns, fatigue, and dizziness, abdominal pain, she had been experiencing various other symptoms and every visit felt like she was being gaslighted about the insistence of the severity of her symptoms before being referred to a specialist, a cardiologist. In order to see the cardiologist, Mary had to be put on a 6-month wait list, when she got to see the cardiologist after the long wait to iterate her symptoms all over again. Only if he had even bothered to read her medical history or chart to ask if she had anything to add, instead of having to repeat herself.
+Mary had been on regular visits to the physician for the past 4years for her persistent chest burns, fatigue, and dizziness, abdominal pain, alongside various other symptoms.Each visit felt like she was being gaslighted about the insistence of the severity of her symptoms before being referred to a specialist-a cardiologist. In order to see the cardiologist, Mary had to be put on a 6-month wait list, when Mary finally got to see the cardiologist after the long wait, she had to iterate her symptoms, hoping he's have reviewed her medical history or chart. Couldn't even be bothered to read her chart to ask if she had anything to add, instead of having to repeat herself.
 
 
-<p>The cardiologist ordered a few laboratory tests, the same test that was taken by the previous physician and told her to reschedule another appointment for the result review when she got back from the laboratory.</p> Oh! well, another 6months waitlist, If Mary could wait for 4years and 6months, what's another 6months?. Mary was back again after waiting for another 6 months with the same cardiologist and after reviewing tests in his opinion all the tests came back okay by his standards. She replied about how she still didn't feel right or okay and felt sicker and sicker now and often and mid-sentence the cardiologist blurted out "Maybe It's just your anxiety". Mary *sighs*
+<p>The cardiologist ordered a few laboratory tests, the same one previously conducted by her physician. Mary was instructed to schedule another appointment for the result test review.
+</p> Oh! well, another 6months waitlist, If Mary could wait for 4years and 6months, what's another 6months?-seemed almost routine for her. Mary returned for the results after waiting for another 6 months with the same cardiologist and after reviewing tests in his opinion all the tests came back okay by his standards. Expressing her distress about how she still didn't feel right and progressively unwell, she was abruptly interrupted by the cardiologist who suggested, "Maybe It's just your anxiety". Mary *sighs* in exasperation
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em><strong>"I would like a second opinion."</strong></em>&nbsp;&nbsp;![meme_two](image/meme_sigh_face.png)
 
 
-![meme_face_three](image/meme_face_umph.png)&nbsp;&nbsp;<em><strong>"Is my ability to give you a prognosis being questioned right now?, Don't be hysterical."</strong></em>
+![meme_face_three](image/meme_face_umph.png)&nbsp;&nbsp;<em><strong>"Is my ability to give you a prognosis being questioned right now? Don't be hysterical,"</strong></em> the cardiologist retorted.
 
 Uhm, yeah quick to not forget the misogyny that still goes on in the healthcare industry when it comes to women and being constantly gaslighted about their symptoms being exaggerated. I mean, the word 'hysteria' comes from the Greek root hystera, meaning ‘uterus’, not surprising. Mary replied
 
