@@ -27,3 +27,11 @@ Uhm, yeah quick to not forget the misogyny that still goes on in the healthcare 
 
 
 <em><strong>"Next to hysteria on my chart, indicate that I requested a second opinion."<em><strong>![meme_facetw](image/meme_sigh_face.png)
+
+![meme_face_four](image/mem_face_gleamy_eyes.jpg)&nbsp;&nbsp;<em><strong>"Okay, that would be $200, the bills will be forwarded to your insurance company."<em><strong>
+
+
+Fortunately, Mary was referred to another cardiologist who understood the importance of patient care juiced in empathy, collaborating with another specialist who is a Gastroenterologist to try and figure out a prognosis for Mary. They were able to figure out Mary's prognosis because the gastroenterologist had a  patient whose case was similar to that of Mary's and decided to run laboratory tests and various scans and probes in line with the patient's diadnosis case. Mary was discovered to have stage 2 gastro cancer.  This is where the importance of collecting not just bulky data but quality data in research for treatment, detection, and prevention of illness and disease in healthcare. Mary was able to get a diagnosis due to another patient's medical quality data.
+
+
+Let's not get started about how it is not cost-effective in the pharmaceutical industry to gather data and make drugs suited more to women due to the unpredictability of the drug's interaction with the menstural cycle of hormones. I simply interpret it as “It just costs more money and time to do that”.  Women are out here vibing with oral contraceptives that with prolonged use could give one stroke or just probably make one go blind, while at the same time, women with PCOS get a little bit of relief from these drugs. With research and the collection of quality data, the risks and gruesome side effects can be reduced to almost nil.
