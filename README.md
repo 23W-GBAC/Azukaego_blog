@@ -23,7 +23,7 @@ Mary had been on regular visits to the physician for the past 4years for her per
 
 ![meme_face_three](image/meme_face_umph.png)&nbsp;&nbsp;<em><strong>"Is my ability to give you a prognosis being questioned right now?, Don't be hysterical."</strong></em>
 
-Uhm, yeah quick to not forget the misogyny that still goes on in the healthcare industry when it comes to women and being constantly gaslighted about their symptoms being exaggerated. I mean the word 'hysteria' comes from the Greek root hystera, meaning ‘uterus’, not surprising. Mary replied
+Uhm, yeah quick to not forget the misogyny that still goes on in the healthcare industry when it comes to women and being constantly gaslighted about their symptoms being exaggerated. I mean, the word 'hysteria' comes from the Greek root hystera, meaning ‘uterus’, not surprising. Mary replied
 
 
 <em><strong>"Next to hysteria on my chart, indicate that I requested a second opinion."<em><strong>![meme_facetw](image/meme_sigh_face.png)
