@@ -2,6 +2,11 @@
 
 
 
+
+
+
+
+
 ![meme](image/meme_stern_face.jpg) &nbsp;&nbsp;<em><strong>"It's just your anxiety!"</strong></em> said the specialist to Mary.
 
 
@@ -16,4 +21,11 @@ Mary had been on regular visits to the physician for the past 4years for her per
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em><strong>"I would like a second opinion."</strong></em>&nbsp;&nbsp;![meme_two](image/meme_sigh_face.png)
 
 
-![meme_face_three](image/meme_face_umph.png)&nbsp;&nbsp;<em><strong>"Is my ability to give you a prognosis being put on the line right now?, Don't be hysterical."</strong></em>
+![meme_face_three](image/meme_face_umph.png)&nbsp;&nbsp;<em><strong>"Is my ability to give you a prognosis being questioned right now?, Don't be hysterical."</strong></em>
+
+Uhm, yeah quick to not forget the misogyny that still goes on in the healthcare industry when it comes to women and being constantly gaslighted about their symptoms being exaggerated. I mean the word 'hysteria' comes from the Greek root hystera, meaning ‘uterus’, not surprising. Mary replied
+
+
+<em><strong>"Next to hysteria on my chart, indicate that I, the patient requested a second opinion."<em><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![meme_facetw](image/meme_sigh_face.png)
+
+
