@@ -34,7 +34,6 @@ Let's not get started about how it is not cost-effective in the pharmaceutical i
 
 
 
-<footer>
-[Back to Main Homepage](README.md)
-</footer>
 
+
+[Back to Main Homepage](README.md)
