@@ -30,6 +30,24 @@
     <main id="content" class="main-content" role="main">
       {{ content }}
 
+      <!-- First GIF with tooltip -->
+  <div class="tooltip">
+    <video height="auto" autoplay loop muted>
+      <source src="blog_gif/gif_meme_face.gif" type="video/gif">
+      Your browser does not support the gif tag.
+    </video>
+    <span class="tooltiptext">Click Here!</span>
+  </div>
+
+  <!-- Second GIF with tooltip -->
+  <div class="tooltip">
+    <video height="auto" autoplay loop muted>
+      <source src="blog_gif/gif_meme_gleamy_face.gif" type="video/gif">
+      Your browser does not support the gif tag.
+    </video>
+    <span class="tooltiptext">Click Here!</span>
+  </div>
+      
       <footer class="site-footer">
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
