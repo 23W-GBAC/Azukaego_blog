@@ -4,7 +4,7 @@ title: "It's Just Your Anxiety"
 ---
 
 
-![](image/meme_stern_face.jpg) &nbsp;&nbsp;<em><strong>"It's just your anxiety!"&nbsp;</strong></em> said the specialist to Mary.
+![](image/meme_stern_face.jpg) &nbsp;&nbsp;<em><strong>"It's just your anxiety!"&nbsp;&nbsp;</strong></em>said the specialist to Mary.
 
 
 Mary had been on regular visits to the physician for the past 4years for her persistent chest burns, fatigue, and dizziness, abdominal pain, alongside various other symptoms.Each visit felt like she was being gaslighted about the insistence of the severity of her symptoms before being referred to a specialist-a cardiologist. In order to see the cardiologist, Mary had to be put on a 6-month wait list, when Mary finally got to see the cardiologist after the long wait, she had to iterate her symptoms, hoping he reviewed her medical history or chart. Couldn't even be bothered to read her chart to ask if she had anything to add, instead of having to repeat herself.
@@ -17,7 +17,7 @@ Mary had been on regular visits to the physician for the past 4years for her per
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em><strong>"I would like a second opinion."</strong></em>&nbsp;&nbsp;![meme_two](image/meme_sigh_face.png)
 
 
-![](image/meme_face_umph.png)&nbsp;&nbsp;<em><strong>"Is my ability to give you a prognosis being questioned right now? Don't be hysterical,"</strong></em>&nbsp;the cardiologist retorted.
+![](image/meme_face_umph.png)&nbsp;&nbsp;<em><strong>"Is my ability to give you a prognosis being questioned right now? Don't be hysterical,"</strong></em>&nbsp;&nbsp;the cardiologist retorted.
 
 Uhm, yeah quick to not forget the misogyny that still goes on in the healthcare industry when it comes to women and being constantly gaslighted about their symptoms being exaggerated. I mean, the word 'hysteria' comes from the Greek root hystera, meaning ‘uterus’, not surprising. Mary replied
 
