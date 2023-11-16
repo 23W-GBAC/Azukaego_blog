@@ -31,3 +31,8 @@ Fortunately, Mary was referred to another cardiologist who understood the import
 
 
 Let's not get started about how it is not cost-effective in the pharmaceutical industry to gather data and make drugs tailored more to women due to hormonal interactions' unpredictability. I simply interpret it as “It just costs more money and time to do that”.  Women are out here vibing with oral contraceptives that with prolonged use could give one stroke or just probably make one go blind and the list goes on, Have you seen the warning labels or leaflet of a oral contraceptive?. While at the same time, women with PCOS get a little bit of relief from these drugs. With research and the collection of quality data, the risks and gruesome side effects can be reduced to almost nil.
+
+
+
+
+[Back to Main Homepage](../)
