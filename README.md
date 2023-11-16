@@ -1,3 +1,3 @@
 
 
-[![](blog_gif/meme face.gif)](blog_post_one)
+[![](blog_gif/gif_meme_face.gif)](blog_post_one)
