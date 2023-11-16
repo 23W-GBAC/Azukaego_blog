@@ -7,7 +7,7 @@ title: "It's Just Your Anxiety"
 ![](image/meme_stern_face.jpg) &nbsp;&nbsp;<em><strong>"It's just your anxiety!"</strong></em> said the specialist to Mary.
 
 
-Mary had been on regular visits to the physician for the past 4years for her persistent chest burns, fatigue, and dizziness, abdominal pain, alongside various other symptoms.Each visit felt like she was being gaslighted about the insistence of the severity of her symptoms before being referred to a specialist-a cardiologist. In order to see the cardiologist, Mary had to be put on a 6-month wait list, when Mary finally got to see the cardiologist after the long wait, she had to iterate her symptoms, hoping he's have reviewed her medical history or chart. Couldn't even be bothered to read her chart to ask if she had anything to add, instead of having to repeat herself.
+Mary had been on regular visits to the physician for the past 4years for her persistent chest burns, fatigue, and dizziness, abdominal pain, alongside various other symptoms.Each visit felt like she was being gaslighted about the insistence of the severity of her symptoms before being referred to a specialist-a cardiologist. In order to see the cardiologist, Mary had to be put on a 6-month wait list, when Mary finally got to see the cardiologist after the long wait, she had to iterate her symptoms, hoping he reviewed her medical history or chart. Couldn't even be bothered to read her chart to ask if she had anything to add, instead of having to repeat herself.
 
 
 <p>The cardiologist ordered a few laboratory tests, the same one previously conducted by her physician. Mary was instructed to schedule another appointment for the result test review.
