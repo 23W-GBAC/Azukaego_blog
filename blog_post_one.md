@@ -1,6 +1,7 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+---
+layout: default
+title: "It's Just Your Anxiety"
+---
 
 
 ![](image/meme_stern_face.jpg) &nbsp;&nbsp;<em><strong>"It's just your anxiety!"</strong></em> said the specialist to Mary.
