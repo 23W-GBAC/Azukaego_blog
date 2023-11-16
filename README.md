@@ -1,3 +1,3 @@
 
 
-[![](blog_gif/meme face.gif)]('/blog_post_one.md/')
+[![](blog_gif/meme face.gif)](blog_post_one)
