@@ -4,7 +4,7 @@
         <a href="blog_post_one">
             <img alt="gif_meme_face.gif" src="https://github.com/23W-GBAC/Azukaego_blog/blob/main/blog_gif/gif_meme_face.gif?raw=true" />
         </a>
-        <p><b>Mary's Diagnosis: A Journey <br><p>Through Medical Bias.</p></br></b></p>
+        <p align="center" style="line-height: 200px;"><b>Mary's Diagnosis: A Journey Through Medical Bias.</b></p>
     </div>
     <div style="display: flex; flex-direction: row;">
     <div style="flex: 1; margin-right: 10px;">
