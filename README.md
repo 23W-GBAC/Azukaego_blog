@@ -12,6 +12,6 @@
         <a href="blog_post_two">
             <img alt="gif_meme_gleamy_face.gif" src="https://github.com/23W-GBAC/Azukaego_blog/blob/main/blog_gif/gif_meme_gleamy_face.gif?raw=true" style="max-width: 100%; border-radius: 5px; height: auto;" />
         </a>
-        <p><strong>Body Mass Index: Eurocentric?.</strong></p>
+        <p><strong>Body Mass Index: Eurocentric ?.</strong></p>
     </div>
 </div>
