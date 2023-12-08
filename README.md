@@ -1,5 +1,5 @@
 
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 0 20px;"> ">
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 0 20px;">
     <div style="flex: 1; margin-right: 40px; text-align: center;">
         <a href="blog_post_one">
             <img alt="gif_meme_face.gif" src="https://github.com/23W-GBAC/Azukaego_blog/blob/main/blog_gif/gif_meme_face.gif?raw=true" style="max-width: 100%; border-radius: 5px; height: auto;" />
