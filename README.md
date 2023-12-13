@@ -1,6 +1,6 @@
 
 <div style="display: flex; flex-direction: column; align-items: baseline; justify-content: space-between;padding: 0 0px;">
-    <div style="display: flex; justify-content: center; align-items: basline;">
+    <div style="display: flex; justify-content: center; align-items: centre;">
         <div style="flex: 1; margin-right: 100px; margin-bottom: 20px; text-align: center;">
             <a href="blog_post_one">
                 <img alt="gif_meme_face.gif" src="https://github.com/23W-GBAC/Azukaego_blog/blob/main/blog_gif/gif_meme_face.gif?raw=true" style="max-width: 100%; border-radius: 5px; height: auto;" />
