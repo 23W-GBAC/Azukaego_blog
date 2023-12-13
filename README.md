@@ -21,7 +21,8 @@
         </div>
               <div style="flex: 1; margin-left: 10px; margin-top: 20px; text-align: center;">
             <a href="blog_post_four">
-                    <img alt="Data_meme.gif" src="https://github.com/23W-GBAC/Azukaego_blog/blob/main/blog_gif/Data_meme.gif?raw=true" /a>
+                    <img alt="Data_meme.gif" src="https://github.com/23W-GBAC/Azukaego_blog/blob/main/blog_gif/Data_meme.gif?raw=true" />
+            </a>
             <p><strong>Diagnosis Redefined: Harnessing <br>Technology to Ease <br>Medical Practitioners' Burden.</strong></p>
         </div>  
     </div>
