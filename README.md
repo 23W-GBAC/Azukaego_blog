@@ -13,7 +13,7 @@
             </a>
             <p><strong>Body Mass Index: Eurocentric?.</strong></p>
         </div>
-        <div style="flex: 1; margin-left: 10px; margin-bottom: 20px; text-align: center;">
+        <div style="flex: 1; margin-left: 10px; margin-top: 20px; text-align: center;">
             <a href="blog_post_three">
                 <img alt="pain_point.gif" src="https://github.com/23W-GBAC/Azukaego_blog/blob/main/blog_gif/pain_point.gif?raw=true" />
             </a>
