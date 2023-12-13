@@ -25,6 +25,6 @@
             <a href="blog_post_four">
                 <img alt="Data_meme.gif" src="https://github.com/23W-GBAC/Azukaego_blog/blob/main/blog_gif/Data_meme.gif?raw=true" style="max-width: 100%; border-radius: 5px; height: auto;">
             </a>
-            <p><strong>Diagnosis Redefined:<br>Harnessing Technology<>to Ease Medical Practitioners' <br>Burden.</strong></p>
+            <p><strong>Diagnosis Redefined:<br>Harnessing Technology to Ease<br> Medical Practitioners' <br>Burden.</strong></p>
         </div>
     </div>
