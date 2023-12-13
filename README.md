@@ -1,5 +1,5 @@
 
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 0 0px; flex-direction: row; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 0 0px; flex-direction: column; flex-wrap: wrap;">
     <div style="display: flex; justify-content: space-between; align-items: center; flex-direction: row; flex-wrap: wrap; width: 100%;">
         <div style="flex: 1; margin-right: 10px; margin-bottom: 20px; text-align: center;">
             <a href="blog_post_one">
@@ -13,8 +13,6 @@
             </a>
             <p><strong>Body Mass Index: Eurocentric?.</strong></p>
         </div>
-        <br>
-        <div style="display: flex; justify-content: space-between; align-items: center; padding: 0 0px; flex-direction: column; flex-wrap: wrap;">
         <div style="flex: 1; margin-left: 10px; margin-bottom: 20px; text-align: center;">
             <a href="blog_post_three">
                 <img alt="pain_point.gif" src="https://github.com/23W-GBAC/Azukaego_blog/blob/main/blog_gif/pain_point.gif?raw=true" />
