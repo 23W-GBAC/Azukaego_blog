@@ -18,6 +18,6 @@
         <a href="blog_post_three">
             <img alt="pain_point.gif" src="https://github.com/23W-GBAC/Azukaego_blog/blob/main/blog_gif/pain_point.gif?raw=true" style="max-width: 100%; border-radius: 5px; height: auto;" />
         </a>
-        <p><strong>Pain Assessment: The Gender Perspective.</strong></p>
+        <p><strong>Pain Assessment: The <br>Gender Perspective.</strong></p>
     </div>
 </div>
