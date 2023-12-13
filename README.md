@@ -14,7 +14,7 @@
             <p><strong>Body Mass Index: Eurocentric?.</strong></p>
         </div>
     </div>
-    <div style="display: flex; justify-content: center; align-items: basline;">
+    <div style="display: flex; justify-content: center; align-items: baseline;">
         <div style="flex: 1; margin-right: 100px; margin-bottom: 20px; margin-top: 20px text-align: center;">
             <a href="blog_post_three">
                 <img alt="pain_point.gif" src="https://github.com/23W-GBAC/Azukaego_blog/blob/main/blog_gif/pain_point.gif?raw=true" style="max-width: 100%; border-radius: 5px; height: auto;" />
