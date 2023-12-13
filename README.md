@@ -13,6 +13,7 @@
             </a>
             <p><strong>Body Mass Index: Eurocentric?.</strong></p>
         </div>
+        <br>
         <div style="display: flex; justify-content: space-between; align-items: center; padding: 0 0px; flex-direction: column; flex-wrap: wrap;">
         <div style="flex: 1; margin-left: 10px; margin-bottom: 20px; text-align: center;">
             <a href="blog_post_three">
