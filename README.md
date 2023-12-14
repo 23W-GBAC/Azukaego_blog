@@ -30,7 +30,7 @@
             <p><strong>Diagnosis Redefined:<br> Harnessing Technology to <br>Ease Medical Practitioners'<br> Burden.</strong></p>
         </div>
    </div>
- <div style="display: flex; flex-direction: column; align-items: baseline; justify-content: space-between;padding: 0 0px;">
+ <div style="display: flex; flex-direction: row; align-items: baseline; justify-content: space-between;padding: 0 0px;">
    <div style="display: flex;justify-content: center;align-items: baseline;align-self: center;">
         <div style="flex: 1; margin-right: 100px; margin-bottom: 20px; text-align: center;">
             <a href="automations">
