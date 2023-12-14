@@ -28,4 +28,5 @@
             </a>
             <p><strong>Diagnosis Redefined:<br> Harnessing Technology to Ease Medical <br> Practitioners' Burden.</strong></p>
         </div>
+   </div>
     </div>
