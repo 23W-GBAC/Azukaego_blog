@@ -30,3 +30,11 @@
             <p><strong>Diagnosis Redefined:<br> Harnessing Technology to <br>Ease Medical Practitioners'<br> Burden.</strong></p>
         </div>
    </div>
+ <div style="display: flex; flex-direction: column; align-items: baseline; justify-content: space-between;padding: 0 0px;">
+   <div style="display: flex;justify-content: center;align-items: baseline;align-self: center;">
+        <div style="flex: 1; margin-right: 100px; margin-bottom: 20px; text-align: center;">
+            <a href="automations">
+                <img alt="Automation.png" src="https://github.com/23W-GBAC/Azukaego_blog/blob/main/blog_gif/Automation.png?raw=true" style="max-width: 100%; border-radius: 5px; height: auto;">
+            </a>
+            <p><strong>Automation-Project.</strong></p>
+        </div>
