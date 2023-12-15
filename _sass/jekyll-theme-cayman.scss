@@ -16,7 +16,7 @@
 }
 
 @mixin small {
-  @media screen and (max-width: 688px) {
+  @media screen and (max-width: 800px) {
     @content;
     body {
       font-size: 0.573vw; /* Convert font-size to a relative unit */
