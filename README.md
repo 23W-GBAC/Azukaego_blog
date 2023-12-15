@@ -31,7 +31,7 @@
         </div>
    </div>
  <div style="display: flex; justify-content: center; align-items: center;">
-        <div style="flex: 1; margin-bottom: 20px; text-align: center;">
+        <div style="text-align: center;">
             <a href="automations">
                 <img alt="Automation.png" src="https://github.com/23W-GBAC/Azukaego_blog/blob/main/blog_gif/Automation.png?raw=true" style="max-width: 100%; border-radius: 5px; height: auto;">
             </a>
