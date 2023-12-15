@@ -16,10 +16,13 @@
 }
 
 @mixin small {
-  @media screen and (max-width: 576px) {
+  @media screen and (max-width: 720px) {
     @content;
     body {
-        font-size: 0.573vw;
+      font-size: 0.573vw; /* Convert font-size to a relative unit */
+      width: 45vw; /* Adjust as needed */
+      height: 200vh; /* Adjust as needed */
+      max-width: 90%; /* Set a maximum width, adjust as needed */
     }
   }
 }
