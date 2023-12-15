@@ -16,12 +16,8 @@
 }
 
 @mixin small {
-  @media screen and (max-width: 800px) {
+  @media screen and (max-width: #{$medium-breakpoint}) {
     @content;
-    body {
-      font-size: 0.573vw; /* Convert font-size to a relative unit */
-      height: 200vh; /* Adjust as needed */
-    }
   }
 }
 
