@@ -16,7 +16,7 @@
 }
 
 @mixin small {
-  @media screen and (max-width: 767px) {
+  @media screen and (max-width: 6.5in) {
     @content;
     body {
         font-size: 14px;
