@@ -1,6 +1,6 @@
 ---
 ---
-@import 'jekyll-theme-cayman';
+@import "{{ site.theme }}";
 
 @import "normalize";
 @import "rouge-github";
