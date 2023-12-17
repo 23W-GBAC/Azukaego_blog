@@ -1,5 +1,5 @@
 ---
-layout2: default2
+layouts2: default2.html
 title: "It's Just Your Anxiety"
 ---
 
