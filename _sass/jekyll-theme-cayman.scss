@@ -359,13 +359,15 @@ a {
   margin-top: 3em;
   border-top: solid 1px $hr-border-color;
   width: -webkit-fill-available;
-  position: absolute;
-  left: 0;
-  text-align: -webkit-center;
-  background-image: url('https://github.com/23W-GBAC/Azukaego_blog/blob/main/blog_gif/blog_foot_banner.gif?raw=true');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+ position: absolute;
+    left: 0;
+    right: -65px;
+    text-align: -webkit-center;
+    background-image: url('https://github.com/23W-GBAC/Azukaego_blog/blob/main/blog_gif/blog_foot_banner.gif?raw=true');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    height: 25vh;
 
   @include large {
     font-size: 1rem;
