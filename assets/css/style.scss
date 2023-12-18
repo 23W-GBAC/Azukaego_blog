@@ -8,27 +8,27 @@
 @import "cayman";
 @import "jekyll-theme-cayman";
 
-body {
+.default2 body {
   display: flex;
   flex-direction: column;
   height: 100vh;
   margin: 0;
 }
 
-.page-header {
+.default2 .page-header {
 }
 
-.wrapper {
+.default2 .wrapper {
   display: flex;
   justify-content: space-between;
   flex-grow: 1;
 }
 
-.main-content {
+.default2 .main-content {
   flex-grow: 2;
 }
 
-.comment-section {
+.default2 .comment-section {
   flex-grow: 1;
 }
 
