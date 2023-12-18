@@ -7,3 +7,24 @@
 @import "{{ site.theme }}";
 @import "cayman";
 @import "jekyll-theme-cayman";
+
+.wrapper {
+  display: flex;
+  /* Add any other wrapper styles, helps in positioning and alignment */
+}
+
+.header {
+  
+}
+
+.main {
+  display: flex;
+  
+}
+
+.main-content {
+}
+
+.comment-section {
+}
+  
