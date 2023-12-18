@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default2
 title: "It's Just Your Anxiety"
 ---
 
