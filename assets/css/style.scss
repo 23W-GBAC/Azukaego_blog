@@ -8,17 +8,26 @@
 @import "cayman";
 @import "jekyll-theme-cayman";
 
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  margin 0;
+}
+
+.page-header {
+}
+
 .wrapper {
-}
-
-.header {
-}
-
-.main {
+  display: flex;
+  justify-content: space-between;
+  flex-grow: 1;
 }
 
 .main-content {
+  flex-grow: 2;
 }
 
-.comment-section{
+.comment-section {
 }
+
