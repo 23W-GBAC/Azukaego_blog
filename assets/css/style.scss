@@ -1,10 +1,9 @@
 ---
 ---
-@import "{{ site.theme }}";
 
 @import "normalize";
 @import "rouge-github";
 @import "variables";
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
-
-@import 'jekyll-theme-cayman';
+@import "{{ site.theme }}";
+@import "cayman";
+@import "jekyll-theme-cayman";
