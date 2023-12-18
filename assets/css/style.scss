@@ -9,24 +9,16 @@
 @import "jekyll-theme-cayman";
 
 .wrapper {
-    display: flex;
-    flex-direction: row;
 }
 
 .header {
-    width: 25%;
 }
 
 .main {
-    display: flex;
-    flex-direction: row;
-    width: 75%;
 }
 
 .main-content {
-    width: 70%;
 }
 
-.comment-section {
-    width: 30%;
+.comment-section{
 }
