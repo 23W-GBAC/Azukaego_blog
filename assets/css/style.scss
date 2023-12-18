@@ -9,22 +9,24 @@
 @import "jekyll-theme-cayman";
 
 .wrapper {
-  display: flex;
-  /* Add any other wrapper styles, helps in positioning and alignment */
+    display: flex;
+    flex-direction: row;
 }
 
 .header {
-  
+    width: 25%;
 }
 
 .main {
-  display: flex;
-  
+    display: flex;
+    flex-direction: row;
+    width: 75%;
 }
 
 .main-content {
+    width: 70%;
 }
 
 .comment-section {
+    width: 30%;
 }
-  
