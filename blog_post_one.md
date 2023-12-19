@@ -3,7 +3,7 @@ layout: default2
 title: "It's Just Your Anxiety"
 ---
 
-<div style="display: flex; align-items: baseline; justify-content: flex-end;">
+<div style="display: flex; align-items: baseline; justify-content: flex-start;">
     <img src="image/meme_stern_face.jpg">
     <p><em><strong>"It's just your anxiety!"</strong></em> said the specialist to Mary.</p>
 </div>
