@@ -12,7 +12,6 @@ title: "It's Just Your Anxiety"
 
 <div style="display: flex; align-items: center;">
     <p>The cardiologist ordered a few laboratory tests, the same ones previously conducted by her physician. Mary was instructed to schedule another appointment for the test result review.</p>
-    <img src="image/meme_two.png">
 </div>
 <p>Oh well, another 6 months on the waitlist. If Mary could wait for 4 years and 6 months, what's another 6 months? It seemed almost routine for her. Mary returned for the results after waiting for another 6 months with the same cardiologist and, after reviewing the tests, in his opinion, all the tests came back okay by his standards. Expressing her distress about how she still didn't feel right and progressively unwell, she was abruptly interrupted by the cardiologist who suggested, "Maybe it's just your anxiety." Mary <em>sighed</em> in exasperation.</p>
 
