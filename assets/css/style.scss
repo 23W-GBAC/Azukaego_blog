@@ -16,7 +16,7 @@
 }
 
 .default2 .page-header {
-  height: 102vh;
+  height: 100vh;
   width: 35vh;
 }
 
@@ -32,9 +32,11 @@
   font: small-caption;
   font-size: 17px;
   text-align: justify;
+  overflow-y: auto;
 }
 
 .default2 .comment-section {
   flex-grow: 1;
+  overflow-y: auto;
 }
 
