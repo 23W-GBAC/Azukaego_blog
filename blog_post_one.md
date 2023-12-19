@@ -3,30 +3,26 @@ layout: default2
 title: "It's Just Your Anxiety"
 ---
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: baseline; justify-content: flex-end;">
     <img src="image/meme_stern_face.jpg">
     <p><em><strong>"It's just your anxiety!"</strong></em> said the specialist to Mary.</p>
 </div>
-
 <p>Mary had been on regular visits to the physician for the past 4 years for her persistent chest burns, fatigue, and dizziness, abdominal pain, alongside various other symptoms. Each visit felt like she was being gaslighted about the insistence of the severity of her symptoms before being referred to a specialist - a cardiologist. In order to see the cardiologist, Mary had to be put on a 6-month wait list. When Mary finally got to see the cardiologist after the long wait, she had to iterate her symptoms, hoping he reviewed her medical history or chart. Couldn't even be bothered to read her chart to ask if she had anything to add, instead of having to repeat herself.</p>
-
-<div style="display: flex; align-items: center;">
-    <p>The cardiologist ordered a few laboratory tests, the same ones previously conducted by her physician. Mary was instructed to schedule another appointment for the test result review.</p>
-</div>
+<p>The cardiologist ordered a few laboratory tests, the same ones previously conducted by her physician. Mary was instructed to schedule another appointment for the test result review.</p>
 <p>Oh well, another 6 months on the waitlist. If Mary could wait for 4 years and 6 months, what's another 6 months? It seemed almost routine for her. Mary returned for the results after waiting for another 6 months with the same cardiologist and, after reviewing the tests, in his opinion, all the tests came back okay by his standards. Expressing her distress about how she still didn't feel right and progressively unwell, she was abruptly interrupted by the cardiologist who suggested, "Maybe it's just your anxiety." Mary <em>sighed</em> in exasperation.</p>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: baseline;">
     <img src="image/meme_face_umph.png">
     <p><em><strong>"Is my ability to give you a prognosis being questioned right now? Don't be hysterical,"</strong></em> the cardiologist retorted.</p>
 </div>
 <p>Uhm, yeah, quick to not forget the misogyny that still goes on in the healthcare industry when it comes to women and being constantly gaslighted about their symptoms being exaggerated. I mean, the word 'hysteria' comes from the Greek root hystera, meaning ‘uterus’, not surprising. Mary replied.</p>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: baseline; justify-content: flex-end;">
     <p><em><strong>"Next to hysteria on my chart, indicate that I requested a second opinion."</strong></em></p>
     <img src="image/meme_sigh_face.png">
 </div>
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: baseline;">
     <img src="image/mem_face_gleamy_eyes.jpg">
     <p><em><strong>"Okay, that would be $200, the bills will be forwarded to your insurance company."</strong></em></p>
 </div>
