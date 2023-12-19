@@ -3,27 +3,36 @@ layout: default2
 title: "It's Just Your Anxiety"
 ---
 
-
-<img src="image/meme_stern_face.jpg">
-<p><em><strong>"It's just your anxiety!"</strong></em> said the specialist to Mary.</p>
+<div style="display: flex; align-items: center;">
+    <img src="image/meme_stern_face.jpg">
+    <p><em><strong>"It's just your anxiety!"</strong></em> said the specialist to Mary.</p>
+</div>
 
 <p>Mary had been on regular visits to the physician for the past 4 years for her persistent chest burns, fatigue, and dizziness, abdominal pain, alongside various other symptoms. Each visit felt like she was being gaslighted about the insistence of the severity of her symptoms before being referred to a specialist - a cardiologist. In order to see the cardiologist, Mary had to be put on a 6-month wait list. When Mary finally got to see the cardiologist after the long wait, she had to iterate her symptoms, hoping he reviewed her medical history or chart. Couldn't even be bothered to read her chart to ask if she had anything to add, instead of having to repeat herself.</p>
 
-<p>The cardiologist ordered a few laboratory tests, the same ones previously conducted by her physician. Mary was instructed to schedule another appointment for the test result review.</p>
+<div style="display: flex; align-items: center;">
+    <p>The cardiologist ordered a few laboratory tests, the same ones previously conducted by her physician. Mary was instructed to schedule another appointment for the test result review.</p>
+    <img src="image/meme_two.png">
+</div>
 
 <p>Oh well, another 6 months on the waitlist. If Mary could wait for 4 years and 6 months, what's another 6 months? It seemed almost routine for her. Mary returned for the results after waiting for another 6 months with the same cardiologist and, after reviewing the tests, in his opinion, all the tests came back okay by his standards. Expressing her distress about how she still didn't feel right and progressively unwell, she was abruptly interrupted by the cardiologist who suggested, "Maybe it's just your anxiety." Mary <em>sighed</em> in exasperation.</p>
 
-<p><em><strong>"I would like a second opinion."</strong></em> <img src="image/meme_sigh_face.png"></p>
-
-<img src="image/meme_face_umph.png">
-<p><em><strong>"Is my ability to give you a prognosis being questioned right now? Don't be hysterical,"</strong></em> the cardiologist retorted.</p>
+<div style="display: flex; align-items: center;">
+    <img src="image/meme_face_umph.png">
+    <p><em><strong>"Is my ability to give you a prognosis being questioned right now? Don't be hysterical,"</strong></em> the cardiologist retorted.</p>
+</div>
 
 <p>Uhm, yeah, quick to not forget the misogyny that still goes on in the healthcare industry when it comes to women and being constantly gaslighted about their symptoms being exaggerated. I mean, the word 'hysteria' comes from the Greek root hystera, meaning ‘uterus’, not surprising. Mary replied.</p>
 
-<p><em><strong>"Next to hysteria on my chart, indicate that I requested a second opinion."</strong></em> <img src="image/meme_sigh_face.png"></p>
+<div style="display: flex; align-items: center;">
+    <p><em><strong>"Next to hysteria on my chart, indicate that I requested a second opinion."</strong></em></p>
+    <img src="image/meme_sigh_face.png">
+</div>
 
-<img src="image/mem_face_gleamy_eyes.jpg">
-<p><em><strong>"Okay, that would be $200, the bills will be forwarded to your insurance company."</strong></em></p>
+<div style="display: flex; align-items: center;">
+    <img src="image/mem_face_gleamy_eyes.jpg">
+    <p><em><strong>"Okay, that would be $200, the bills will be forwarded to your insurance company."</strong></em></p>
+</div>
 
 <p>Fortunately, Mary was referred to another cardiologist who understood the importance of patient care juiced in empathy, collaborating with another specialist who is a Gastroenterologist to try and figure out a prognosis for Mary. They were able to figure out Mary's prognosis because the gastroenterologist had a patient whose case was similar to that of Mary's and decided to run laboratory tests and various scans and probes in line with the patient's diagnosis case. Mary was discovered to have stage 2 gastro cancer. This is where the importance of collecting not just bulky data but quality data in research for treatment, detection, and prevention of illness and disease in healthcare. Mary was able to get a diagnosis due to another patient's medical quality data.</p>
 
