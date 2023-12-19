@@ -16,6 +16,8 @@
 }
 
 .default2 .page-header {
+  height: 70vh;
+  width: 35vh;
 }
 
 .default2 .wrapper {
@@ -26,6 +28,10 @@
 
 .default2 .main-content {
   flex-grow: 2;
+  padding: 0rem 2rem;
+  font: small-caption;
+  font-size: 17px;
+  text-align: justify;
 }
 
 .default2 .comment-section {
