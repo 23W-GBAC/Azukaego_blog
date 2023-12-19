@@ -1,6 +1,3 @@
----
----
-
 @import "normalize";
 @import "rouge-github";
 @import "variables";
@@ -16,20 +13,14 @@
 }
 
 .default2 .page-header {
-  height: 100vh;
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  width: 25vh
+  height: 70vh;
+  width: 35vh;
 }
 
 .default2 .wrapper {
   display: flex;
   justify-content: space-between;
   flex-grow: 1;
-  margin-top:10vh;
-  margin-bottom: 10vh;
 }
 
 .default2 .main-content {
@@ -38,18 +29,8 @@
   font: small-caption;
   font-size: 17px;
   text-align: justify;
-  overflow-y: auto;
 }
 
 .default2 .comment-section {
   flex-grow: 1;
-  overflow-y: auto;
-}
-
-.default2 .site-footer {
-  height: 10vh;
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  right: 0;
 }
