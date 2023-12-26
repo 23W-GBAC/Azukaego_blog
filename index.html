@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vertical Header Layout</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      font-family: Arial, sans-serif;
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    .navbar {
+      flex: 0 0 auto;
+      background-color: #f8f9fa; /* Adjust background color as needed */
+      padding: 10px;
+    }
+    .main-content {
+      display: flex;
+      flex: 1;
+    }
+    .left-header {
+      flex: 0 0 650px;
+      background-color: #f2f2f2;
+      padding: 10px;
+      text-align: center;
+      font-weight: bold;
+      background-image: url(output_images/blog_banner_images/blogbanner3.png)
+    }
+    .right-side {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+    }
+    .right-body {
+      flex: 1;
+      padding: 0px;
+      margin: 0;
+    }
+    /* Reset margin and padding for all elements */
+    .container,
+    .container * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    /* Define the header with a background image */
+    .header 
+    {
+      position: relative;
+      height: 500px; /* Set your desired height */
+      z-index: -1; /* Push it behind other content */
+    }
+
+    /* Define the decorative element */
+    .decorative-element::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 20px; /* Adjust as needed */
+      height: 100%;
+      background-color: #f2f2f2; /* Color for the decorative element */
+      z-index: -2; /* Place it further behind the header */
+    }
+    .navbar {
+      z-index: 1; /* Bring the navbar to the front */
+    }
+    .container {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      position: relative; /* Ensure the container is a positioned element */
+      padding-left: 0px; /* Space for the decorative element */
+    }
+    /* Other styles for your content remain unchanged */
+
+  </style>
+</head>
+<body>
+
+  <nav class="navbar is-light" id="mainNav">
+    <div class="container">
+      <!-- Navbar content -->
+      <a class="navbar-brand" href="#">Azukaego</a>
+      <div class="navbar-end">
+        <a class="navbar-item" href="#">Home</a>
+        <a class="navbar-item" href="#">About</a>
+        <a class="navbar-item" href="#">Posts</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container">
+    <div class="main-content">
+      <div class="left-header">Left Header</div>
+      <div class="right-side">
+        <div class="right-body">
+          <h2>Right Body</h2>
+          <p>This is the content for the right body.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>

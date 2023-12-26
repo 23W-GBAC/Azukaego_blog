@@ -1,0 +1,15 @@
+Resized Log                                                  | Destination Log                                             
+Resized double_face_meme1.jpg and copied to double_face_meme1.jpg | Destination: output_images/blog_post_article_images/double_face_meme1.jpg
+Resized gleamy_face1.jpg and copied to gleamy_face1.jpg      | Destination: output_images/blog_post_article_images/gleamy_face1.jpg
+Resized nervous_meme_face1.jpg and copied to nervous_meme_face1.jpg | Destination: output_images/blog_post_article_images/nervous_meme_face1.jpg
+Resized teary_meme_face1.jpg and copied to teary_meme_face1.jpg | Destination: output_images/blog_post_article_images/teary_meme_face1.jpg
+Resized Automations.png and copied to Automations.png        | Destination: output_images/blog_post_banner_images/Automations.png
+Resized blogbanner1.png and copied to blogbanner1.png        | Destination: output_images/blog_banner_images/blogbanner1.png
+Resized blogbanner2.png and copied to blogbanner2.png        | Destination: output_images/blog_banner_images/blogbanner2.png
+Resized blogbanner3.png and copied to blogbanner3.png        | Destination: output_images/blog_banner_images/blogbanner3.png
+Resized blogbanner4.png and copied to blogbanner4.png        | Destination: output_images/blog_banner_images/blogbanner4.png
+Resized bmi_article.png and copied to bmi_article.png        | Destination: output_images/blog_post_banner_images/bmi_article.png
+Resized sigh_face1.png and copied to sigh_face1.png          | Destination: output_images/blog_post_article_images/sigh_face1.png
+Resized umhm_meme_face1.png and copied to umhm_meme_face1.png | Destination: output_images/blog_post_article_images/umhm_meme_face1.png
+Resized mary_article.jpg and copied to mary_article.jpg      | Destination: output_images/blog_post_banner_images/mary_article.jpg
+Resized pain_point_article.jpg and copied to pain_point_article.jpg | Destination: output_images/blog_post_banner_images/pain_point_article.jpg
