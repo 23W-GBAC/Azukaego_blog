@@ -12,11 +12,11 @@ The first step in doing that, I write a pseudocode, one of my biggest setbacks i
 Pseudocode:<br>
 Step 1- create a source folder, where I will store all the images.<br> 
 Step 2 - Create a 3-destination folder to accommodate different sizes of images.<br> 
-Step 3 - After creating a function for resize, I think I should create a dimension flag that if for example, If an image in the source directory is within a big-sized pixel, It is resized and sent to a destination file for a big resized image and also apply to smaller pixel after they get resized, they are sent to a smaller pixel directory and the resizing is depended on the range dimension I want and this can resize to fit our new blog layout.<br>
+Step 3 - After creating a function for resize, I think I should create a dimension flag that if for example, If an image in the source directory is within a big-sized pixel, It is resized and sent to a destination file for a big resized image and also apply to smaller pixel after they get resized, they are sent to a smaller pixel directory and the resizing is depended on the range dimension I want and this can be resized to fit my new blog layout.<br>
 Step 4 - I have to be able to put a flag warning where if the files already exist after resizing they don't get resized again to prevent unneeded resizing and clutter.
 
 The code:
-Before writing the code I had to google the software app for resizing I could use it from the command line and it was ![imagemagick]("https://imagemagick.org/script/download.php"), user-friendly and easy to install. Since I use Windows, I installed the binary release and it gets installed directly into the environment variables of your system and doesn’t need the path of the installed application to be copied into the path of your system variables. So to test if it has been installed I used the command:
+Before writing the code I had to google the software app for resizing I could use from the command line and it was [imagemagick](https://imagemagick.org/script/download.php) that was reconmended, It is user-friendly and easy to install. Since I use Windows, I installed the binary release version and it gets installed directly into the environment variables of my system and doesn’t need the path of the installed application to be copied into the path of my system variables. So to test if it has been installed I used the command:
 
 ```json
 $ convert –-version 
