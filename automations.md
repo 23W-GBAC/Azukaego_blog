@@ -16,7 +16,7 @@ Step 3 - After creating a function for resize, I think I should create a dimensi
 Step 4 - I have to be able to put a flag warning where if the files already exist after resizing they don't get resized again to prevent unneeded resizing and clutter.
 
 The code:
-Before writing the code I had to google the software app for resizing I could use it from the command line and it was [imagemagick}(https://imagemagick.org/script/download.php), user-friendly and easy to install. Since I use Windows, I installed the binary release and it gets installed directly into the environment variables of your system and doesn’t need the path of the installed application to be copied into the path of your system variables. So to test if it has been installed I used the command:
+Before writing the code I had to google the software app for resizing I could use from the command line and it was [imagemagick](https://imagemagick.org/script/download.php) that was reconmended, It is user-friendly and easy to install. Since I use Windows, I installed the binary release version and it gets installed directly into the environment variables of my system and doesn’t need the path of the installed application to be copied into the path of my system variables. So to test if it has been installed I used the command:
 
 ```json
 $ convert –-version 
