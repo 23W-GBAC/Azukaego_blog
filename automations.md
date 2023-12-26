@@ -12,7 +12,7 @@ The first step in doing that, I write a pseudocode, one of my biggest setbacks i
 Pseudocode:<br>
 Step 1- create a source folder, where I will store all the images.<br> 
 Step 2 - Create a 3-destination folder to accommodate different sizes of images.<br> 
-Step 3 - After creating a function for resize, I think I should create a dimension flag that if for example, If an image in the source directory is within a big-sized pixel, It is resized and sent to a destination file for a big resized image and also apply to smaller pixel after they get resized, they are sent to a smaller pixel directory and the resizing is depended on the range dimension I want and this can resize to fit our new blog layout.<br>
+Step 3 - After creating a function for resize, I think I should create a dimension flag that if for example, If an image in the source directory is within a big-sized pixel, It is resized and sent to a destination file for a big resized image and also apply to smaller pixel after they get resized, they are sent to a smaller pixel directory and the resizing is depended on the range dimension I want and this can be resized to fit my new blog layout.<br>
 Step 4 - I have to be able to put a flag warning where if the files already exist after resizing they don't get resized again to prevent unneeded resizing and clutter.
 
 The code:
