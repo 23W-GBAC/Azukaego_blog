@@ -86,7 +86,7 @@ This conditional check ([ -s "$log_file" ]) verifies if the file specified by $l
 If the log file doesn't exist or is empty (-s "$log_file" is false). It executes the code block after else printf "%-60s | %-60s\n" "Resized Log" "Destination Log" > "$log_file":<br>
 Creates a new log file with header information ("Resized Log" and "Destination Log") and redirects (>) this information to the specified log file ("$log_file"). 
 
-The log file can be checked to see the sample in the text file, to view how it looks like. The output %-60s | %-60s\n  represents the first string argument that will be printed, which is for example, mary.png has been resized and copied to Mary.png destination file followed by | and a space. 
+The [log](logs/copied_images_pathway_logs.txt) file can be checked to see the sample in the text file, to view how it looks like. The output %-60s | %-60s\n  represents the first string argument that will be printed, which is for example, mary.png has been resized and copied to Mary.png destination file followed by | and a space. 
 
 The second specifier %-60s represents the second string argument that will be printed.
 "\n" is a newline character, which will be the destination pathway of where the .png was copied into, causing the output to move to the next line after printing these two formatted strings. 
