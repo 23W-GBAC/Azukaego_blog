@@ -1,0 +1,78 @@
+@import url(stylesheet.css);
+
+
+
+#blog-banner {
+    width: 25%;
+    float: left;
+    position: relative;
+}
+#blog-banner::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Black color with 50% opacity */
+    z-index: 1; /* Ensure the overlay is on top of the background image */
+  }
+#post-content {
+    width: 75%;
+    float: right;
+    background-color: aliceblue;
+
+}
+.navbar {
+ background-color: transparent
+}
+footer.footer {
+    background-color: transparent;
+    color: #f5ecec;
+    padding: 20px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  footer.footer a {
+    color: #0c0c0c;
+    text-decoration: none;
+    margin: 0 10px;
+    border-bottom: none; /* Remove underline */
+  }
+  
+  footer.footer a i {
+    font-size: 27px; /* Adjust icon size */
+    display: block;
+    margin: 0 auto;
+    color: #0e0d0d;
+    margin-bottom: 10px; /* Increase space between icon and text */
+  }
+  
+  #footer.footer a:hover {
+    border-bottom: 2px solid #171717; /* Add underline on hover */
+  }
+  footer.footer p {
+    color: black;
+    text-align: center;
+  }
+  
+  #tabs ul {
+    align-items: center;
+    border-bottom: 1px solid #0e0d0d;
+    display: flex;
+    justify-content: center;
+    padding: 0; /* To remove default list padding */
+    list-style: none; /* Remove default list styles */
+  }
+  
+  #tabs li {
+    margin-right: 10px; /* Adjust margin between list items */
+  }
+  
+  #tabs a {
+    text-decoration: none; /* Remove default link underline */
+    color: #333; /* Change link color as needed */
+  }

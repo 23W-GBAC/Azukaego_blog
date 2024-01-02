@@ -1,0 +1,99 @@
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Bubbler One';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/bubbler-one-v20-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/poppins-v20-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/montserrat-v26-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css);
+@import url(https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css);
+
+
+html {
+  height: 100%;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif, "Bubbler One", "Montserrat", "Poppins";
+
+    display: flex;
+    flex-direction: column;
+
+    min-height: 100vh;
+  }
+  .navbar {
+    position: fixed;
+    width: 100%;
+    height: 11vh;
+    z-index: 1003;
+    background-color: transparent;
+    font-family: "Montserrat" Bold;
+    color: #dbdbdb;
+   }
+  #blog-banner {
+    width: 100%;
+    height: 100vh;
+    background-image: url("/Azukaego_blog/output_images/blog_banner_images/blogbanner4.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  footer.footer {
+    background-color: transparent;
+    color: #f5ecec;
+    padding: 20px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  footer.footer a {
+    color: #eee4e4;
+    text-decoration: none;
+    margin: 0 10px;
+    border-bottom: none; /* Remove underline */
+  }
+  
+  footer.footer a i {
+    font-size: 27px; /* Adjust icon size */
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px; /* Increase space between icon and text */
+  }
+  
+  footer.footer a:hover {
+    border-bottom: 2px solid #eee4e4; /* Add underline on hover */
+  }
+  .tabs ul {
+    align-items: center;
+    border-bottom: 1px solid #dbdbdb;
+    display: flex;
+    justify-content: center;
+    padding: 0; /* To remove default list padding */
+    list-style: none; /* Remove default list styles */
+  }
+  
+  .tabs li {
+    margin-right: 10px; /* Adjust margin between list items */
+  }
+  
+  .tabs a {
+    text-decoration: none; /* Remove default link underline */
+    color: #333; /* Change link color as needed */
+  }
