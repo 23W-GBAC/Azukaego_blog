@@ -165,6 +165,12 @@ So I put a dimension range. In my blog layout, the images with bigger width and 
 
 Also, more dimensions can be added to accommodate the blog logo width and height and can also be resized to prefered dimensions and sent to a different destination or single destination depending on the needs of how organized you want your folder to be. The dimension of the image is echoed and piped into where  “awk” checks whether the dimension of the image falls within the dimension range and (!) represents not. If it does not fall in the range it exits and moves on to the next line of code and does the same thing.
 
+To make the script executable:
+
+```json
+$ chmod u+x blogimage.sh
+```
+
 To enable my resize image automation anytime my terminal runs. I can put my images anytime and it gets resize by doing:
 
 ```json
