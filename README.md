@@ -9,6 +9,6 @@ I chose this approach in hopes of inviting a broader audience to appreciate the 
 
 ___
 
-[Automations](automations.md)
+## [AUTOMATIONS](automations_md)
 
 ___
