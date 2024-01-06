@@ -40,7 +40,7 @@ exclude_folder = None  # Defining it globally
 
 ```
 
-This part was suggested to me by pycharm when I included exclude_folder, suggesting I define it globally. To the best of my research, for example, you know when you open a Word doc it automatically name is “untitled1”, that is its default name till you decide to change its name…in this case, that is how it works, exclude default is none, till I use – exclude in the terminal with the name of the folder I want to be excluded. If I don't use exclude, it excludes nothing and scans the whole directory and also allows my program to run without problems, because when it comes to Python script, the number of arguments input would not run unless you input the correct arguments required. I learned that the hard way 😣 learning Python
+This part was suggested to me by pycharm when I included exclude_folder, suggesting I define it globally. To the best of my research, for example, you know when you open a Word doc it automatically the name is “untitled1”, that is its default name till you decide to change its name. In this case, that is how it works, exclude default is none, till I use –- exclude in the terminal with the name of the folder I want to be excluded. If I don't use exclude, it excludes nothing and scans the whole directory and also allows my program to run without problems, because when it comes to Python script, the number of arguments input would not run unless you input the correct arguments required. I learned that the hard way 😣 learning Python.
 
 ```json
 
@@ -59,7 +59,7 @@ def get_image_files(directory):
     return image_files
 
 ```
-One of the amazing things I am fascinated by is the Python language, it feels like writing an English statement, as somebody who is intermediate in shell and c programming, I will pick Python any time of the day because it gives me hope that, maybe i am not bad at structuring codes 😂. In the define image directory, we declare image_files iwith an empty list denoted by a square bracket. The os.walk(), is like for example, you live in a huge house and you are upstairs with your mum and she wants you to go and get your younger siblings for dinner, too bad for you, you are not with your phone to call them to know exactly where they are to go get them. So  as you walk down the stairs, you search room by room to find them. That is what .walk() does in the operating system. Since one of your siblings has eaten their dinner, your mum tells you not to get them, which is what .remove() does to exclude_folder.
+One of the amazing things I am fascinated by is the Python language, it feels like writing an English statement, as somebody who is intermediate in shell and c programming, I will pick Python any time of the day because it gives me hope that, maybe i am not bad at structuring codes 😂. In the def image directory, we declare image_files iwith an empty list denoted by a square bracket. The os.walk(), is like for example, you live in a huge house and you are upstairs with your mum and she wants you to go and get your younger siblings for dinner, too bad for you, you are not with your phone to call them to know exactly where they are to go get them. So as you walk down the stairs, you search room by room to try and find them. That is what .walk() does in the operating system. Since one of your siblings has eaten their dinner, your mum tells you not to get them, which is what .remove() does to exclude_folder.
 
 if file.lower().endswith((".png", ".jpg", ".jpeg", ".gif")): basically means your mum giving you criteria for getting your siblings, If they are not washed up for dinner, they shouldn’t come. This means if they don't end with their extension in lowercase, append not their pathway, just the pathways with this file extension ending.
 
@@ -80,7 +80,7 @@ def log_image_pathways(directory, md_path, exclude=None):
             md.write(f"| {image_name} | {file_path} |\n")
 
 ```
-Writing the pathway in the md file using markdown format and sorting the from ascending order using the file basename, writing the pathway and file name using the open() method in write mode.
+Writing the pathway in the md file in markdown format using the open() method in write 'w' mode and sorting the from ascending order using the file basename.
 
 ```json
 
@@ -98,7 +98,7 @@ def prompt_and_update(directory, md_file, exclude):
             print("Please enter 'yes' or 'no'.")
 
 ```
-This is function prompt for updating the list and calling the function using while true to keep the prompt from constantly prompting response, .lower() in this statement in this case, helps convert the string input to lowercase incase i input the prompt in uppercase, If answer is no, it puts executing or updating it to sleep depending on the secs set before it prompts again, in this case i set it to 10secs to test if it prompts again after putting it to sleep, but in the main code, i set it to 3600secs which to prompt every hour or can be set to 5 or 6hrs
+This is prompt function for updating the list and calling the function using "while true:" to keep the prompt from constantly prompting endless response, .lower() in this statement in this case, helps convert the string input to lowercase incase i input the prompt in uppercase, If answer is no, it puts executing or updating it to sleep depending on the secs set before it prompts again, in this case i set it to 10secs to test if it prompts again after putting it to sleep, but in the main code, i set it to 3600secs which to prompt every hour or can be set to 5 or 6hrs
 
 ```json
 
@@ -155,4 +155,4 @@ python3.12 loggingall.py . logs/log_for_all_repo_image.md --exclude images
 
 ````
 Append the pathway of your script pathway to nano, to enable run from anywhere in the terminal or append the pathway to an aliases and add to nano .bashrc file, call it from any where in your terminal, usually if you try to run it outside the current directory, without using the relative or full pathway, it would say directory not found. 
-the script can be used to monitor and log folder pathways also, just include the extension name
+the script can be used to monitor and log folder pathways also, just include the extension
