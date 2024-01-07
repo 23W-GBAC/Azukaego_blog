@@ -177,3 +177,8 @@ To enable my resize image automation anytime my terminal runs. I can put my imag
 $ nano ~/.bashrc
 ```
 And then add my blogimage.sh pathway to execute when the terminal runs.
+
+___
+
+### [week two](automations_two.md)
+
