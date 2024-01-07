@@ -155,4 +155,4 @@ python3.12 loggingall.py . logs/log_for_all_repo_image.md --exclude images
 
 ````
 Append the pathway of your script pathway to nano, to enable run from anywhere in the terminal or append the pathway to an aliases and add to nano .bashrc file, call it from any where in your terminal, usually if you try to run it outside the current directory, without using the relative or full pathway, it would say directory not found. 
-the script can be used to monitor and log folder pathways also, just include the extension and this is how the [log](logs/log_for_all_repo_image.md) lloks like
+the script can be used to monitor and log folder pathways also, just include the extension and this is how the [log](logs/log_for_all_repo_image.md) looks like
