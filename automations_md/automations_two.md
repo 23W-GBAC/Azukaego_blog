@@ -11,7 +11,7 @@ After writing the script, I executed it and it did something funny. I shoved in 
 
 ![logsampleimg](https://github.com/23W-GBAC/Azukaego_blog/assets/132351500/c4889db6-148b-4254-96f0-0278074a5826)
 
-If anybody takes a go at [it](shell_script/blogimage_resize_or_move.sh) and can help where I did wrong, would be grateful, I gave up and thought of an alternative method to log my entire blog repository image pathway anytime they are added anywhere in any folder. I recently just started learning Python script via Zed Shaw’s learning Python the hard way and with scripting, you can copy files, write into files, read files from the terminal(pg 42-76) and [Programming with mosh](https://youtu.be/_uQrJ0TkZlc?si=GUMYQwsguC0fTGA_) on YouTube, decided to log with python script instead. Time to roll out the pseudocode!  
+If anybody takes a go at [it](automations_md/shell_script/blogimage_resize_or_move.sh) and can help where I did wrong, would be grateful, I gave up and thought of an alternative method to log my entire blog repository image pathway anytime they are added anywhere in any folder. I recently just started learning Python script via Zed Shaw’s learning Python the hard way and with scripting, you can copy files, write into files, read files from the terminal(pg 42-76) and [Programming with mosh](https://youtu.be/_uQrJ0TkZlc?si=GUMYQwsguC0fTGA_) on YouTube, decided to log with python script instead. Time to roll out the pseudocode!  
 
 Pseudocode:
 Step 1: Create a definition for getting my image files from my entire blog repository directory except for the source ’image’ directory, because it is purely used for storing images that need resizing and their pathways do not need to be logged, don’t want unnecessary clutter.
