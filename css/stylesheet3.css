@@ -237,7 +237,7 @@ body {
   top: 0;
   left: 0;
   background-color: antiquewhite;
-  background-image: url('/original_images/blogside_banner_three.png');
+  background-image: url('original_images/blogside_banner_three.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

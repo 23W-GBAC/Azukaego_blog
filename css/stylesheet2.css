@@ -67,7 +67,7 @@ body {
   color: rgb(223, 217, 217);
 }
 .navbar-end .navbar-item {
-  background-image: url('/original_images/menubar_two.png');
+  background-image: url('original_images/menubar_two.png');
   background-position: center center;
   background-size: centre;
   margin-right: 1em;
