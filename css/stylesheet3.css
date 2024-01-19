@@ -67,7 +67,7 @@ body {
   color: rgb(223, 217, 217);
 }
 .navbar-end .navbar-item {
-  background-image: url("original_images/menubar_two.png");
+  background-image: url("https://github.com/23W-GBAC/Azukaego_blog/blob/original_images/menubar_two.png");
   background-position: center center;
   background-size: centre;
   margin-right: 1em;
@@ -237,7 +237,7 @@ body {
   top: 0;
   left: 0;
   background-color: antiquewhite;
-  background-image: url("original_images/blogside_banner_three.png");
+  background-image: url("https://github.com/23W-GBAC/Azukaego_blog/blob/original_images/blogside_banner_three.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
