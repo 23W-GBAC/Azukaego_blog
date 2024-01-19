@@ -83,7 +83,7 @@ python3.12 replicate_html.py mary-journey.html
 
 ```
 
-Mary-journey.html is the HTML standard page I use for the remaining of my blog post layout, they all share the same stylesheet and if there is a page that needs major change, I can always add a new ID and still use the same shared stylesheet. Surprisingly this is the first automation that didn’t have issues. The only issue I encountered was on another code for time-stamping my blogpost using JavaScript and it was unsuccessful, I was only able to do a last modified timestamp and just wrote when the blog post was created manually but if I did any modification or changes in the blog post, it will reflect on the HTML page section for the time-stamp.
+Mary-journey.html is the HTML standard page I use for the remaining of my blog post layout, they all share the same stylesheet and if there is a page that needs major change, I can always add a new ID and still use the same shared stylesheet and hope to keep blogging in the future. Surprisingly this is the first automation that didn’t have issues. The only issue I encountered was on another code for time-stamping my blogpost using JavaScript and it was unsuccessful, I was only able to do a last modified timestamp and just wrote when the blog post was created manually but if I did any modification or changes in the blog post, it will reflect on the HTML page section for the time-stamp.
 
 __
 
