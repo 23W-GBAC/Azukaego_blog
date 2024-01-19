@@ -1,9 +1,10 @@
 
-## AUTOMATIONS
+# AUTOMATIONS
+___
 
-WEEK 1
+## WEEK ONE
 
----
+___
 
 I started my blog by being too reliant on the GitHub theme given the type of layout and design, I wanted and due to the limitation, I had to strip down everything and started all over with an index.html with my own customized layout leaving me with a new blog layout and images that needS resizing to fit the new layout, to combat this issue using shell script to automate the resizing.
 
@@ -180,5 +181,5 @@ And then add my blogimage.sh pathway to execute when the terminal runs.
 
 ___
 
-### [week two](automations_two.md)
+### [WEEK TWO](automation_two.md)  | [WEEK THREE](automation_three.md)   |
 

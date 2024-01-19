@@ -1,99 +1,262 @@
-@font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Bubbler One';
-  font-style: normal;
-  font-weight: 400;
-  src: url('../fonts/bubbler-one-v20-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-@font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Poppins';
-  font-style: normal;
-  font-weight: 400;
-  src: url('../fonts/poppins-v20-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-@font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'Montserrat';
-  font-style: normal;
-  font-weight: 400;
-  src: url('../fonts/montserrat-v26-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
+/* Import statements and font-face rules */
 @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css);
 @import url(https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css);
 
+@font-face {
+  font-display: swap;
+  font-family: 'Bubbler One';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/bubbler-one-v20-latin-regular.woff2') format('woff2');
+}
 
+@font-face {
+  font-display: swap;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/poppins-v20-latin-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/montserrat-v26-latin-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Almendra Display';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/almendra-display-v31-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Gugi';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/gugi-v15-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+
+/* Global styles */
 html {
   height: 100%;
 }
+
 body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif, "Bubbler One", "Montserrat", "Poppins";
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif, "Bubbler One", "Montserrat", "Poppins";
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
 
-    display: flex;
-    flex-direction: column;
+/* Navbar Base Styles */
+.navbar {
+  position: fixed;
+  width: 100%;
+  height: 11vh;
+  z-index: 1003;
+  background-color: transparent;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+}
 
-    min-height: 100vh;
+.navbar-burger {
+  color: white; /* Change the color to white */
+}
+
+.navbar-end .navbar-item {
+  color: rgb(220, 205, 205);
+  padding-right: 5em;
+  font-weight: bolder;
+}
+
+.navbar-end .navbar-item:hover {
+  background-color: rgb(49, 46, 46);
+  color: rgb(65, 58, 58);
+}
+
+.navbar-brand .navbar-item {
+  color: rgb(220, 205, 205);
+  padding-left: 2em;
+  font-weight: bolder;
+  font-family: 'Gugi';
+  font-size: xx-large;
+}
+
+.navbar-brand .navbar-item:hover {
+  color: white;
+  background-color: aliceblue;
+}
+
+/* Blog Banner Styles */
+#blog-banner {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background-image: url('/original_images/blog_main_banner_plain.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: 0;
+}
+
+#blog-banner::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6); /* Black color with 50% opacity */
+  z-index: 1; /* Ensure the overlay is on top of the background image */
+}
+
+.blog-heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+  color: rgb(220, 205, 205);
+  position: relative;
+  z-index: 2; /* Adjusted z-index to ensure the text is above the overlay */
+}
+
+/* Applies the custom font to specific elements */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat";
+}
+
+.blog-heading h1 {
+  font-size: 4em;
+  margin-bottom: 10px;
+  font-weight: bolder;
+}
+
+.blog-heading h3 {
+  font-size: 1.0em;
+}
+
+
+/* Footer Styles */
+footer.footer {
+  background-color: transparent;
+  color: rgb(220, 205, 205);
+  padding: 20px 0;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+footer.footer a {
+  color: rgb(220, 205, 205);
+  text-decoration: none;
+  margin: 0 10px;
+  border-bottom: none;
+}
+
+footer.footer a i {
+  font-size: 27px;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
+
+footer.footer a:hover {
+  border-bottom: 2px solid rgb(220, 205, 205);
+}
+
+/* Tabs Styles */
+.tabs ul {
+  align-items: center;
+  border-bottom: 1px solid rgb(220, 205, 205);
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  list-style: none;
+}
+
+.tabs li {
+  margin-right: 10px;
+}
+
+.tabs a {
+  text-decoration: none;
+  color: rgb(220, 205, 205);
+}
+
+/* Media Queries */
+@media screen and (max-width: 1000px) {
+  .navbar-burger {
+    color: white; /* Change the color to white */
   }
-  .navbar {
-    position: fixed;
-    width: 100%;
-    height: 11vh;
-    z-index: 1003;
-    background-color: transparent;
-    font-family: "Montserrat" Bold;
-    color: #dbdbdb;
-   }
-  #blog-banner {
-    width: 100%;
-    height: 100vh;
-    background-image: none;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+
+  .navbar-menu {
+    background-color: rgba(27, 25, 25, 0.5);
   }
+
+  .navbar-menu .navbar-end .navbar-item {
+    color: rgb(220, 205, 205);
+  }
+
+  .navbar-menu .navbar-end .navbar-item:hover {
+    background-color: rgb(125, 120, 120);
+    color: white;
+  }
+
+  .navbar-menu .navbar-brand .navbar-item {
+    color: rgb(220, 205, 205);
+  }
+
+  .navbar-menu .navbar-brand .navbar-item:hover {
+    color: white;
+  }
+
   footer.footer {
-    background-color: transparent;
-    color: #f5ecec;
-    padding: 20px 0;
-    text-align: center;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+    display: block !important;
   }
+
+  .blog-heading h1 {
+    font-size: 2em;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  /* Adjust styles as needed */
   
-  footer.footer a {
-    color: #eee4e4;
-    text-decoration: none;
-    margin: 0 10px;
-    border-bottom: none; /* Remove underline */
+}
+
+@media screen and (min-width: 1024px) {
+  .navbar-end .navbar-item {
+    color: rgb(220, 205, 205);
   }
-  
-  footer.footer a i {
-    font-size: 27px; /* Adjust icon size */
-    display: block;
-    margin: 0 auto;
-    margin-bottom: 10px; /* Increase space between icon and text */
+
+  .navbar-end .navbar-item:hover {
+    background-color: rgb(232, 227, 227); /* Change to your desired ash color */
+    color: rgb(184, 177, 177);
   }
-  
-  footer.footer a:hover {
-    border-bottom: 2px solid #eee4e4; /* Add underline on hover */
+  .navbar-brand .navbar-item {
+    color: rgb(220, 205, 205);
   }
-  .tabs ul {
-    align-items: center;
-    border-bottom: 1px solid #dbdbdb;
-    display: flex;
-    justify-content: center;
-    padding: 0; /* To remove default list padding */
-    list-style: none; /* Remove default list styles */
+
+  .navbar-brand .navbar-item:hover {
+    background-color: rgb(33, 30, 30);
+    color: white;
   }
-  
-  .tabs li {
-    margin-right: 10px; /* Adjust margin between list items */
+  .navbar-burger {
+    color: aliceblue;
   }
-  
-  .tabs a {
-    text-decoration: none; /* Remove default link underline */
-    color: #333; /* Change link color as needed */
-  }
+
+}

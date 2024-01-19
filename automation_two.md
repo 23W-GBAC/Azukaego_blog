@@ -1,9 +1,10 @@
 
----
+___
 
-### Week 2
+## WEEK TWO
 
----
+___
+
 After resizing my old blog layout images, it occurred to me that what if I added more images, I like designing and in between changing and improving those designs.  I meant more designed new images that I could customise the width to fit the new blog layout. Where would I have to put them, certainly it's not in my shell script image source directory that  I use for resizing images.
 So I thought okay, what if I tweak the shell script code, where I set up a flag that if the new image fits the resized dimension, don’t resize the image, just move it to the directory directly and log it? Honestly, I did that because I needed the logging to track my image pathway, I could easily just create another folder, and store my normal images in there but I need the logs. I did try to do and it was unsuccessful kind of because I wanted it to function in a certain way.
 
@@ -157,3 +158,7 @@ python3.12 loggingall.py . logs/log_for_all_repo_image.md --exclude images
 Append the pathway of your script pathway to nano, to enable run from anywhere in the terminal or append the pathway to an aliases and add to nano .bashrc file, call it from any where in your terminal, usually if you try to run it outside the current directory, without using the relative or full pathway, it would say directory not found. 
 the script can be used to monitor and log folder pathways also, just include the extension and this is how the [log](logs/log_for_all_repo_image.md) looks like
 
+
+___
+
+### [WEEK ONE](automation_one.md)  |  [WEEK THREE](automation_three.md)  |

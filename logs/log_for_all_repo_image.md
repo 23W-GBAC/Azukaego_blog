@@ -1,11 +1,15 @@
 | Image Name                   | Pathway                             |
 |------------------------------|-------------------------------------|
+| Data-ai.png | .\original_images\Data-ai.png |
 | blog_main_banner_plain.png | .\original_images\blog_main_banner_plain.png |
 | blog_main_banner_wtitle.png | .\original_images\blog_main_banner_wtitle.png |
 | blogside_banner_five.png | .\original_images\blogside_banner_five.png |
 | blogside_banner_one.png | .\original_images\blogside_banner_one.png |
 | blogside_banner_three.png | .\original_images\blogside_banner_three.png |
 | blogside_banner_two.png | .\original_images\blogside_banner_two.png |
+| menubar_one.png | .\original_images\menubar_one.png |
+| menubar_two.png | .\original_images\menubar_two.png |
+| sternmeme.jpg | .\original_images\sternmeme.jpg |
 | blogbanner1.png | .\output_images\blog_banner_images\blogbanner1.png |
 | blogbanner2.png | .\output_images\blog_banner_images\blogbanner2.png |
 | blogbanner3.png | .\output_images\blog_banner_images\blogbanner3.png |

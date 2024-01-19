@@ -100,8 +100,8 @@ body {
 /* Navbar "Azukaego" specific styling */
 .navbar-brand .navbar-item {
   color: rgb(220, 205, 205);
-  padding-left: 2em;
-  padding-right: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
   font-family: 'Gugi';
   font-weight: bolder;
   font-size: xx-large;
@@ -177,10 +177,10 @@ body {
   .navbar-brand .navbar-item:hover {
     color: white;
   }
-}
+ }
 
-/* Footer styles */
-footer.footer {
+ /* Footer styles */
+ footer.footer {
   position: sticky;
   bottom: 0;
   width: 100%;
@@ -188,62 +188,62 @@ footer.footer {
   padding: 20px 0;
   color: rgb(220, 205, 205);
   background-color: rgb(70 64 105);
-}
+ }
 
-footer.footer a {
+ footer.footer a {
   color: rgb(220, 205, 205);
   text-decoration: none;
   margin: 0 10px;
   display: inline-block;
   border-bottom: none;
-}
+ }
 
-footer.footer a i {
+ footer.footer a i {
   font-size: 27px;
   margin-bottom: 5px;
-}
+ }
 
-footer.footer a:hover {
+ footer.footer a:hover {
   text-decoration: none;
   color: rgb(220, 205, 205);
-}
+ }
 
-/* Tabs Styles */
-.tabs ul {
+ /* Tabs Styles */
+ .tabs ul {
   display: flex;
   justify-content: center;
   padding: 0;
   border-bottom: none;
-}
+ }
 
-.tabs li {
+ .tabs li {
   display: flex;
   align-items: center;
   margin-right: 10px;
-}
+ }
 
-.tabs a {
+ .tabs a {
   text-decoration: none;
   color: rgb(220, 205, 205);
   display: flex;
   align-items: center;
-}
+ }
 
-/* Blog Banner and Main Content styles */
-.blog-side-banner {
-  width: 20%;
+ /* Blog Banner and Main Content styles */
+ .blog-side-banner {
+  width: 15%;
   height: 100vh;
   position: fixed;
   top: 0;
   left: 0;
   background-color: antiquewhite;
-  background-image: url('/original_images/blogside_banner_two.png');
+  background-image: url('/original_images/blogside_banner_three.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
   z-index: 1;
-}
-.blog-side-banner::after {
+ }
+ .blog-side-banner::after {
   content: "";
   position: absolute;
   top: 0;
@@ -252,70 +252,220 @@ footer.footer a:hover {
   height: 100%;
   background: rgba(0, 0, 0, 0.6); /* Black color with 50% opacity */
   z-index: 1; /* Ensure the overlay is on top of the background image */
-}   
+ }   
 
-.main-content {
-  margin-left: 20%;
+ .main-content {
+  margin-left: 15%;
   box-sizing: border-box;
-}
+ }
 
-.posts-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  padding-top: 5em;
-  padding-left: 2em;
-  padding-bottom: 120px;
-}
-
-.post {
-  border: 0px solid #ccc;
-  width: calc(32% - 20px);
-  box-sizing: border-box;
-  padding: 20px;
-  font-family: "Montserrat";
-  margin-bottom: 20px;
-  text-align: center;
-}
-
-/* Mobile Styles */
-@media screen and (max-width: 767px) {
-  .blog-side-banner {
-    width: 100%;
-    height: 30vh; /* Adjust this height as needed */
-    float: none;
-    position: static;
-    background-size: cover; /* Add this line to ensure the background image is covered */
-  }
-  .blog-side-banner::after {
-    content: "";
-    position: absolute;
+ .reconmend {
+    flex: 1;
+    position: fixed;
     top: 0;
-    left: 0;
-    width: 100%;
-    height: 30vh;
-    background: rgba(0, 0, 0, 0.6); /* Adjust the overlay color and opacity as needed */
-    z-index: 1; /* Ensure the overlay is on top of the background image */
+    right: 0;
+    bottom: 0;
+    padding: 20px;
+    background-color: #e0e0e0;
+    width: 15%;
+    z-index: 2; /* Ensure that the recommend section is above other elements */
   }
-
-
-  .main-content {
-    margin-left: 0;
-    width: 100%;
-    box-sizing: border-box;
+  
+  .write-up-comment {
+    display: flex;
+    flex-direction: column;
+    flex: 2; /* Adjust the flex value to give more space to the write-up */
+    padding: 20px;
+    background-color: #fff;
+    padding-top: 5em;
   }
-
+  
+  .write-up {
+    margin-bottom: 50px; /* Add margin to separate write-up and comment-section */
+  }
+  blockquote {
+    background-color: white; /* Set background color */
+    border: 1px solid #ccc; /* Set border color */
+    border-radius: 0px; /* Set border-radius for curved corners */
+    padding: 10px; /* Set padding */
+    margin: 10px 0; /* Add some margin */
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-style: italic;
+  }
+  
+  /* Styling for images within blockquotes */
+  blockquote img {
+    max-width: 7%; /* Make sure images don't overflow the blockquote */
+    border-radius: 0px; /* Add border-radius for images */
+    margin-top: 10px; /* Add some top margin for images */
+    
+  }
+  #timestamp-container {
+    background-color: #f0f0f0; /* Set background color */
+    border: 1px solid #ccc; /* Set border color */
+    border-radius: 20px; /* Set border-radius for curved corners */
+    padding: 7px;
+    margin-top: 40px;
+    margin-bottom: -27px;
+    background-color: #0e1111;
+    color: white;
+    font-family: 'Poppins';
+  }
+  
+  #post-date,
+  #last-modified-date {
+    margin: 0; /* Remove default margin for the paragraphs inside the container */
+  }
+  
+  .discussion-heading {
+    color: white;
+    font-family: 'Poppins';
+ }
+  
+  .comment-section {
+    margin-top: auto; /* Align comment section to the bottom */
+    padding: 20px;
+    width: 100%;
+    background-color: #f0f0f0;
+    order: 3; /* Set the order to move it to the bottom */
+    position: relative;
+    bottom: 0; /* Stick to the bottom */
+    width: 100%;
+    border-radius: 20px;
+    overflow-y: auto; /* Add this to make it scrollable */
+    max-height: 50vh; /* Set a maximum height for scrolling, adjust as needed */
+    background-color: #0e1111
+  }
+  
   .posts-container {
-    padding-left: 0;
-    padding-top: 5em; /* Adjust the top padding to leave space for the blog banner */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding-top: 5em;
+    padding-left: 2em;
+    padding-bottom: 0px;
+    justify-content: space-between; /* Add this line to ensure proper spacing */
+    width: 80%;
   }
-
-  .post {
-    width: 100%;
+/* Styles for mobile screens */
+@media screen and (max-width: 767px) {
+    .navbar-menu {
+      background-color: rgba(15, 13, 13, 0.7);
+    }
+  
+    .navbar-end .navbar-item {
+      background-image: none;
+    }
+  
+    .navbar-menu .navbar-end .navbar-item {
+      color: rgb(220, 205, 205);
+    }
+  
+    .navbar-menu .navbar-end .navbar-item:hover {
+      background-color: rgb(153, 74, 74);
+      color: white;
+    }
+  
+    .navbar-menu .navbar-brand .navbar-item {
+      color: rgb(220, 205, 205);
+    }
+  
+    .navbar-menu .navbar-brand .navbar-item:hover {
+      color: white;
+    }
+  
+    .navbar-burger {
+      color: aliceblue;
+    }
+  
+    .content {
+      align-content: flex-end;
+    }
+  
+    footer.footer {
+      display: block !important;
+      text-align: center;
+      padding: 20px 0;
+      color: rgb(220, 205, 205);
+      background-color: rgb(24, 21, 36);
+    }
+  
+    .blog-side-banner {
+      width: 100%;
+      height: 30vh;
+      float: none;
+      position: relative; /* Change to relative */
+      background-size: cover;
+    }
+  
+    .blog-side-banner::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 30vh;
+      background: rgba(0, 0, 0, 0.6);
+      z-index: 1;
+    }
+  
+    .main-content {
+      margin-left: 0;
+      width: 100%;
+      box-sizing: border-box;
+    }
+    
+  
+    .reconmend {
+      flex: auto;
+      width: 100%;
+      position: relative; /* Change to relative */
+      padding: 40px;
+      background-color: #e0e0e0;
+      margin-top: 17px;
+     
+    }
+  
+    .write-up-comment {
+      flex: 2;
+      padding: 20px;
+      background-color: #fff;
+    }
+  
+    .write-up {
+      margin-bottom: 50px;
+    }
+  
+    .comment-section {
+      margin-top: auto;
+      padding: 20px;
+      width: 100%;
+      background-color: #f0f0f0;
+      order: 3;
+      position: relative;
+      bottom: 0;
+      width: 100%;
+      overflow-y: auto;
+      max-height: 50vh;
+      background-color: #0e1111;
+      border-radius: 20px;
+    }
+  
+    .posts-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      padding-top: 5em;
+      padding-left: 0;
+      padding-bottom: 0px;
+      justify-content: space-between;
+      width: 100%;
+    }
+  
+    .footer {
+      position: static;
+      margin-top: 20px;
+    }
   }
-
-  .footer {
-    position: static; /* Change position to static for the footer */
-    margin-top: 20px; /* Adjust margin as needed */
-  }
-}
+  
