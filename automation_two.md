@@ -1,7 +1,7 @@
 
 ___
 
-## WEEK TWO
+## WEEK TWO  (Logging pathways of all the images in repository )
 
 ___
 

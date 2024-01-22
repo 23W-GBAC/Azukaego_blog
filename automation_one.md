@@ -2,7 +2,7 @@
 # AUTOMATIONS
 ___
 
-## WEEK ONE
+## WEEK ONE  (Resizing images)
 
 ___
 

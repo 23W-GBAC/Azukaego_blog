@@ -1,7 +1,7 @@
 
 ___
 
-## WEEK THREE
+## WEEK THREE  (Replicating html pages using python script)
 
 ___
 
@@ -14,7 +14,7 @@ Step 1: At first I was going to hardcode it, copy the sample HTML and store it i
 
 Step 2: Yes, I have become obsessed with the prompt, why don’t we prompt replicating multiply HTML, say 5 6 or 8:
 
-Step 3: Prompt again if the said number of HTML we want to replicate is the number we want to replicate, i might change my mind on the number of HTML I want sometimes and to save us the time of going to renaming those files at were they were replicated to, why don't we have that prompt iterate naming the said numbers of files we replicate and name them. I mean what if there is an alien invasion and I need to write one more blog post before I get beamed up, who has time for copying and pasting and renaming? I already made the standard HTML I want to use for all my blog posts down to the blockquote.
+Step 3: Prompt again if the said number of HTML we want to replicate is the number we actually want to replicate, i might change my mind on the number of HTML I want sometimes and to save us the time of going to renaming those files at were they were replicated to, why don't we have that prompt iterate naming the said numbers of files we replicate and name them. I mean what if there is an alien invasion and I need to write one more blog post before I get beamed up, who has time for copying and pasting and renaming? I already made the standard HTML I want to use for all my blog posts down to the blockquote.
 
 ```json
 
@@ -24,7 +24,7 @@ def replicate_html(input_filename):
     with open(input_filename, 'r', encoding='utf-8') as file:
         html_content = file.read()
 ```
-Defining function for replicating my HTML and in this case it is taking one argument input filename and the filename is the name of my standard sample HTML when I run it from the terminal. It reads from the HTML standard sample file, a universal language, the first time I ran this code, it gave an encoding error and I checked with chatgpt and was told I would keep getting errors if I didn't include the encoding. So it is like opening a website that is in a language or has multiple languages on it that you are not native to and you forget to turn on Google Translate automatically the website is confusing and you can it until you specify on auto Google help translate to translate it to the language you understand so you can read what is on the website. The website is the HTML file sample, and what you are reading on the website is the content of what is in the HTML file sample and the utf-8 is what language you want to read it in. import sys helps with that process more like a tool.
+Defining function for replicating my HTML and in this case it is taking one argument which is input filename and the filename is the name of my standard sample HTML, when I run it from the terminal. It reads from the HTML standard sample file, a universal language. The first time I ran this code, it gave an encoding error and I checked with chatgpt and was told I would keep getting errors if I didn't include the encoding (utf-8). So basically, it is like opening a website that is in a language or has multiple languages on it that you are not native to and you forgot to turn on Google Translate the page automatically, the website is confusing to you, until you click on auto Google translate to help translate to the language you understand so you can read what is on the website. The website is the HTML file sample, and what you are reading on the website is the content of what is in the HTML file sample and the utf-8 is what language you want to read it in. import sys helps with that process more like a tool.
 
 ```json
 

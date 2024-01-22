@@ -260,16 +260,19 @@ body {
  }
 
  .reconmend {
-    flex: 1;
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    padding: 20px;
-    background-color: #e0e0e0;
-    width: 15%;
-    z-index: 2; /* Ensure that the recommend section is above other elements */
-  }
+  flex: 1;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  padding: 20px;
+  background-color: rgba(6, 5, 5, 0.9);
+  width: 20%; /* Adjusted width to 20% */
+  margin-top: 6em;
+  border-radius: 20px;
+  margin-bottom: 1em;
+  z-index: 2;
+ }
   
   .write-up-comment {
     display: flex;
@@ -343,13 +346,15 @@ body {
     flex-wrap: wrap;
     gap: 20px;
     padding-top: 5em;
-    padding-left: 2em;
+    padding-left: 2em; /* Adjusted left padding to maintain spacing */
+    padding-right: 2em; /* Added right padding to maintain spacing */
     padding-bottom: 0px;
     justify-content: space-between; /* Add this line to ensure proper spacing */
-    width: 80%;
+    width: calc(80% - 4em); /* Adjusted width to account for left and right padding */
   }
+  
 /* Styles for mobile screens */
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1023px) {
     .navbar-menu {
       background-color: rgba(15, 13, 13, 0.7);
     }
@@ -418,15 +423,16 @@ body {
     
   
     .reconmend {
+      order: 4; /* Move .reconmend to the bottom */
       flex: auto;
       width: 100%;
       position: relative; /* Change to relative */
       padding: 40px;
-      background-color: #e0e0e0;
+      background-color: #0d0c0c;
       margin-top: 17px;
-     
-    }
-  
+      margin-left: 17px;
+      height: 25vh;
+     }
     .write-up-comment {
       flex: 2;
       padding: 20px;
