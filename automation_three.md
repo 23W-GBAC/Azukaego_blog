@@ -87,4 +87,4 @@ Mary-journey.html is the HTML standard page I use for the remaining of my blog p
 
 __
 
-### [WEEK ONE](automation_one.md)  |  [WEEK TWO](automation_two.md)  |
+### [WEEK ONE](automation_one.md)  |  [WEEK TWO](automation_two.md)  | [WEEK FOUR](automation_four.md)
