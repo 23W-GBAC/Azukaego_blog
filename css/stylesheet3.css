@@ -283,28 +283,91 @@ body {
     padding-top: 5em;
   }
   
-  .write-up {
-    margin-bottom: 50px; /* Add margin to separate write-up and comment-section */
-  }
-  blockquote {
-    background-color: white; /* Set background color */
-    border: 1px solid #ccc; /* Set border color */
-    border-radius: 0px; /* Set border-radius for curved corners */
-    padding: 10px; /* Set padding */
-    margin: 10px 0; /* Add some margin */
+.write-up {
+    margin-bottom: 50px;
+    font-family: 'Poppins';
+    text-align: justify;
+}
+
+.write-up p {
+    margin-bottom: 15px;
+}
+
+.write-up blockquote {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border: 0px solid #ccc;
+    border-radius: 0px;
+    padding: 10px;
+    margin: 10px 0;
     font-family: 'Montserrat';
     font-weight: bold;
     font-style: italic;
-  }
-  
-  /* Styling for images within blockquotes */
-  blockquote img {
-    max-width: 7%; /* Make sure images don't overflow the blockquote */
-    border-radius: 0px; /* Add border-radius for images */
-    margin-top: 10px; /* Add some top margin for images */
-    
-  }
-  #timestamp-container {
+}
+
+.write-up blockquote img {
+    max-width: 7%;
+    border-radius: 0px;
+    margin-right: 10px;
+}
+
+.write-up blockquote p {
+    margin: 0;
+}
+
+.write-up blockquote.img-right {
+    flex-direction: row-reverse;
+}
+.side-by-side {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+  flex-direction: column;
+  float: left;
+  padding-top: 8px;
+  font-size: small;
+  text-align: center;
+  margin-bottom: -1px;
+}
+
+.side-by-side img {
+  max-width: 91%;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+
+.side-by-side .image-container {
+  flex-shrink: 0;
+  width: 50%; /* Adjust the width as needed */
+  overflow: hidden; /* Hide overflow content */
+}
+
+.side-by-side .image-container img {
+  max-width: 100%;
+}
+
+.side-by-side .image-container figcaption {
+  margin-top: 10px;
+  padding-bottom: 15px;
+  clear: both;
+  display: block;
+}
+
+.side-by-side .write-up {
+  flex-grow: 1;
+  width: 50%; /* Adjust the width as needed */
+}
+
+.side-by-side .write-up p {
+  margin-bottom: 15px;
+}
+
+
+
+
+
+ #timestamp-container {
     background-color: #f0f0f0; /* Set background color */
     border: 1px solid #ccc; /* Set border color */
     border-radius: 20px; /* Set border-radius for curved corners */
