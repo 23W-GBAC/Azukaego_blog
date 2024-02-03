@@ -5,10 +5,9 @@ ___
 
 ___
 
-After doing the Python script for logging all my blog images in my repository except the image source directory for resizing images. While experimenting with different designs, I was on my second HTML and second stylesheet and realised it was becoming and decided why not write a Python script to replicate your HTML for you, it is tedious to have to copy and paste and rename and the constant typing, so let's roll out the pseudocode!
+After doing the Python script for logging all my blog images in my repository except the image source directory for resizing images. While on my second article, on my second HTML, realised it was becoming repetitive and decided why not write a Python script to replicate your HTML for you, it is tedious to have to copy and paste and rename and the constant typing, so let's roll out the pseudocode!
 
 PSEUDOCODE:
-One of the many things I see as a good use of being an overthinker is that it helps me think of many flags regarding codes.
 
 Step 1: At first I was going to hardcode it, copy the sample HTML and store it in a string variable, with the triple quote, python can take a long block of string but then again it takes away the versatility of the code, so we use reading from a file and writing into another file as I did before.
 

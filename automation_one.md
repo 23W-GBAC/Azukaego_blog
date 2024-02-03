@@ -6,7 +6,7 @@ ___
 
 ___
 
-I started my blog by being too reliant on the GitHub theme given the type of layout and design, I wanted and due to the limitation, I had to strip down everything and started all over with an index.html with my own customized layout leaving me with a new blog layout and images that needS resizing to fit the new layout, to combat this issue using shell script to automate the resizing.
+I started my blog by being too reliant on the GitHub theme given the type of layout and design, I wanted and due to the limitation, I had to strip down everything and started all over with an index.html with my own customized layout leaving me with a new blog layout and images that needS resizing to fit the new layout for my articles, to combat this issue using shell script to automate the resizing.
 
 The first step in doing that, writing a pseudocode, one of my biggest setbacks is having an idea but not structuring them properly and doing a pseudocode helps.
 
@@ -181,5 +181,5 @@ And then add my blogimage.sh pathway to execute when the terminal runs.
 
 ___
 
-### [WEEK TWO](automation_two.md)  | [WEEK THREE](automation_three.md)   |
+### [WEEK TWO](automation_two.md)  | [WEEK THREE](automation_three.md)   | [WEEK FOUR](automation_four.md)
 

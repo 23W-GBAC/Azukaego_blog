@@ -5,7 +5,7 @@ ___
 
 ___
 
-After resizing my old blog layout images, it occurred to me that what if I added more images, I like designing and in between changing and improving those designs.  I meant more designed new images that I could customise the width to fit the new blog layout. Where would I have to put them, certainly it's not in my shell script image source directory that  I use for resizing images.
+After resizing my old blog layout images, it occurred to me that what if I added more images as my article grew, Between changing and improving my article. Where would I have to put them, certainly it's not in my shell script image source directory that  I use for resizing images.
 So I thought okay, what if I tweak the shell script code, where I set up a flag that if the new image fits the resized dimension, don’t resize the image, just move it to the directory directly and log it? Honestly, I did that because I needed the logging to track my image pathway, I could easily just create another folder, and store my normal images in there but I need the logs. I did try to do and it was unsuccessful kind of because I wanted it to function in a certain way.
 
 After writing the script, I executed it and it did something funny. I shoved in normal images with recycled images that I used imagemagick to resize via the shell script in my source directory. The code was executed and echoed “Resized and moved”. It moved a copy of the images to their various destination like it was resizing. Usually, when an image is resized, it makes a copy leaving behind the original image in the source directory, and then I executed it again, then the code was like “I recognise these images don't need resizing” to the original normal and recycled resized images in the source directory, “let's move you to where you belong”. It moved them and replaced their copy in their various destination directories, leaving no image in the source directory. I was like “Oh! It worked” till I opened the logs and behold, cluttered with doubled logs, Although I did try to use chatgpt for error correction to fix it, chatgpt helps with fixing my codes, I am really bad at structuring codes even when I know them. Sample below of how the logs looked like:
@@ -161,4 +161,4 @@ the script can be used to monitor and log folder pathways also, just include the
 
 ___
 
-### [WEEK ONE](automation_one.md)  |  [WEEK THREE](automation_three.md)  |
+### [WEEK ONE](automation_one.md)  |  [WEEK THREE](automation_three.md)  | [WEEK FOUR](automation_four.md)

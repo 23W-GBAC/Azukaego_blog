@@ -1,6 +1,8 @@
 | Image Name                   | Pathway                             |
 |------------------------------|-------------------------------------|
+| Adolphe_Quételet_by_Joseph-Arnold_Demannez.jpg | .\original_images\Adolphe_Quételet_by_Joseph-Arnold_Demannez.jpg |
 | Data-ai.png | .\original_images\Data-ai.png |
+| Henrietta_Lacks_(1920-1951).jpg | .\original_images\Henrietta_Lacks_(1920-1951).jpg |
 | blog_main_banner_plain.png | .\original_images\blog_main_banner_plain.png |
 | blog_main_banner_wtitle.png | .\original_images\blog_main_banner_wtitle.png |
 | blogside_banner_five.png | .\original_images\blogside_banner_five.png |
@@ -9,6 +11,9 @@
 | blogside_banner_two.png | .\original_images\blogside_banner_two.png |
 | menubar_one.png | .\original_images\menubar_one.png |
 | menubar_two.png | .\original_images\menubar_two.png |
+| reconmend_one.png | .\original_images\reconmend_one.png |
+| reconmend_three.png | .\original_images\reconmend_three.png |
+| reconmend_two.png | .\original_images\reconmend_two.png |
 | sternmeme.jpg | .\original_images\sternmeme.jpg |
 | blogbanner1.png | .\output_images\blog_banner_images\blogbanner1.png |
 | blogbanner2.png | .\output_images\blog_banner_images\blogbanner2.png |
