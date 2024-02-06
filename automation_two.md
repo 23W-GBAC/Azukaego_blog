@@ -1,7 +1,11 @@
 
 ___
 
-## WEEK TWO  (Logging pathways of all the images in repository )
+## WEEK TWO
+
+___
+
+#### Jan 6, 2023 | Logging pathways of all the images in repository
 
 ___
 

@@ -2,10 +2,11 @@
 # AUTOMATIONS
 ___
 
-## WEEK ONE  (Resizing images)
+## WEEK ONE
 
 ___
 
+#### Dec 23, 2023 | RESIZING IMAGES
 I started my blog by being too reliant on the GitHub theme given the type of layout and design, I wanted and due to the limitation, I had to strip down everything and started all over with an index.html with my own customized layout leaving me with a new blog layout and images that needs resizing to fit the new layout for my articles, to combat this issue using shell script to automate the resizing.
 
 The first step in doing that, writing a pseudocode, one of my biggest setbacks is having an idea but not structuring them properly and doing a pseudocode helps.

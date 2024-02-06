@@ -1,10 +1,13 @@
 
 ___
 
-## WEEK THREE  (Replicating html pages using python script)
+## WEEK THREE
 
 ___
 
+#### Jan 19, 2024 | Replicating html pages using python script
+
+___
 After doing the Python script for logging all my blog images in my repository except the image source directory for resizing images. While on my second article, on my second HTML, realised it was becoming repetitive and decided why not write a Python script to replicate your HTML for you, it is tedious to have to copy and paste and rename and the constant typing, so let's roll out the pseudocode!
 
 PSEUDOCODE:

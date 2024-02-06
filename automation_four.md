@@ -1,15 +1,20 @@
 
 ___
 
-## WEEK FOUR (Automating reconmended random post)
+## WEEK FOUR
 
 ___
 
-So to provide readers seeking more in-depth information with additional resources, since my article is more adhered to human touch, the people behind the number, stripped of its technicalities, so i thought why not do a recommended post section that gives readers more option if they want more technical indepth information.
+#### Jan 23, 2024 | Automating recommended random post
+
+___
+So to provide readers seeking more in-depth information with additional resources, since my article is more adhered to human touch, the people behind the number, stripped of its technicalities, so i thought why not do a recommended post section that gives readers more option if they want more technical indepth information. At first, i wanted to just to write a script that grabs the screenshot of their landing page and pops up in the recommend section but if they make changes, it would not reflect on my end. So i decided to go with the URLs. Time to roll out the pseudocode!  
 
 PSEUDOCODE:
 Step 1- Create a shell script that extracts all the  group homepage URLs and sends them to a JSON file
+
 Step 2- The code should be able to grab the URL and the ID section where it is supposed to pop up in the HTML layout.
+
 Step 3- Ask chatgpt, we don't know much about javascript, just little enough to know where an error occurs or where it is coming from. Let’s not get ahead of ourselves now.
 
 ```json
