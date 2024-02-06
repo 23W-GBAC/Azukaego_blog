@@ -103,3 +103,8 @@ Random post 3:
 ___
 
 ### [WEEK ONE](automation_one.md) | [WEEK TWO](automation_two.md) | [WEEK THREE](automation_three.md)
+___
+
+End of this current automation project but I intend to do more in the nearest sometime
+
+___
